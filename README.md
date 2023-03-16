@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h3>Nice to meet you, I'm Ali Hassnain 👨🏻‍💻 </h3>
-I am currently exploring Job opportunities. Please feel free to reach out!
-🎓   I'm majoring in Computer Science (w/ a specialization in Web Frontend) at the University of MNSUAM
-🌱   I'm currently worked as Freelancer on Fiverr (Achived : Level one seller badge) and Upwork (Top rated soon)
-😊   Pronouns: he/him
-🍜   Did you know I'm a huge foodie - ask me for a food recommendation!
+<p>I am currently exploring Job opportunities. Please feel free to reach out!<p>
+<li>🎓   I'm majoring in Computer Science (w/ a specialization in Web Frontend) at the University of MNSUAM <li>
+<li>🌱   I'm currently worked as Freelancer on Fiverr (Achived : Level one seller badge) and Upwork (Top rated soon)<li>
+<li>😊   Pronouns: he/him</li>
+<li>🍜   Did you know I'm a huge foodie - ask me for a food recommendation!</li>
