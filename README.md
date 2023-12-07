@@ -19,6 +19,7 @@ Here are some ideas to get you started:
 <li>🎓   I'm majoring in Computer Science (with a specialization in Web Frontend) at the University of MNSUAM </li>
 <li>😊   Pronouns: he/him</li>
 <li>🍜   Did you know I'm a huge foodie - ask me for a food recommendation!</li>
+
   
   ![GitHub Views](https://komarev.com/ghpvc/?username=alidotdeveloper&color=FAC151)
 
