@@ -21,5 +21,5 @@ Here are some ideas to get you started:
 <li>🍜   Did you know I'm a huge foodie - ask me for a food recommendation!</li><br>
 
   
-  ![GitHub Views](https://komarev.com/ghpvc/?username=alidotdeveloper&color=FAC151)
+  ![GitHub Views](https://komarev.com/ghpvc/?username=alidotdeveloper&color=blue)
 
