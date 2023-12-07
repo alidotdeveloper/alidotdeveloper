@@ -14,10 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h3>Nice to meet you, I'm Ali! 👨🏻‍💻 </h3>
+<h3>Nice to meet you, I'm Ali! ![GitHub Views](https://komarev.com/ghpvc/?username=alidotdeveloper&color=FAC151)👨🏻‍💻 </h3>
 <p>I am currently exploring Job opportunities. Please feel free to <a href= "https://www.linkedin.com/in/alihassnaindev/">reach out!</a><p>
 <li>🎓   I'm majoring in Computer Science (w/ a specialization in Web Frontend) at the University of MNSUAM </li>
 <li>😊   Pronouns: he/him</li>
 <li>🍜   Did you know I'm a huge foodie - ask me for a food recommendation!</li>
   
-![GitHub Views](https://komarev.com/ghpvc/?username=alidotdeveloper&color=FAC151)
+
