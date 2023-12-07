@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h3>Hey folks! 👋</h3> 
-<p>I am currently exploring Job opportunities. Please feel free to <a href= "https://www.linkedin.com/in/alihassnaindev/">reach out!</a><p>
-<li>🎓   I'm majoring in Computer Science (with a specialization in Web Frontend) at the University of MNSUAM </li>
+<p>I'm Ali. I have expertise in MERN ( MongoDB, React, Express, and NodeJS) & WordPress. Please feel free to <a href= "https://www.linkedin.com/in/alihassnaindev/">reach out!</a><p>
+<li>🎓   I'm majoring in Computer Science (with a specialization in Web Frontend) at the University of MNS </li>
 <li>😊   Pronouns: he/him</li>
 <li>🍜   Did you know I'm a huge foodie - ask me for a food recommendation!</li><br>
 
