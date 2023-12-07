@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 <li>😊   Pronouns: he/him</li>
 <li>🍜   Did you know I'm a huge foodie - ask me for a food recommendation!</li>
   
-[![GitHub Views](https://komarev.com/ghpvc/?username=alidotdeveloper&color=FAC151)][10]
+[![GitHub Views](https://komarev.com/ghpvc/?username=alidotdeveloper&color=FAC151)]
