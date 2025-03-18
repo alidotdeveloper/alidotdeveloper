@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 <h3>Hey folks! 👋</h3> 
 <p>I'm a Full Stack Developer, I have expertise in MERN ( MongoDB, React, Express, and NodeJS) & WordPress. Please feel free to <a href= "https://www.linkedin.com/in/alihassnaindev/">reach out!</a><p>
-<li>🌱   I’m currently learning about React Optimization and TypeScript </li>
+<li>🌱   I’m currently learning about Next JS and TypeScript </li>
 <li>😊    Know about my work & experiences: <a href= "https://alidotdev.netlify.app">My portfolio</a></li>
 <li>🍜   Did you know I'm a huge foodie - ask me for a food recommendation!</li><br>
 
